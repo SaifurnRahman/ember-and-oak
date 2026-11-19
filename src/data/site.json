@@ -1,0 +1,73 @@
+{
+  "name": "Ember & Oak",
+  "tagline": "Wood-fired kitchen & bar",
+  "currency": "$",
+  "credit": "Website by Saifur Rahman",
+  "phone": "+1 (555) 214-7788",
+  "whatsapp": "15552147788",
+  "email": "hello@emberandoak.com",
+  "address": "214 Harbor Street, Brooklyn, NY 11201",
+  "mapQuery": "Brooklyn Bridge Park, Brooklyn, NY",
+  "hours": [
+    { "day": "Sunday", "open": "10:00", "close": "21:00" },
+    { "day": "Monday", "open": "", "close": "" },
+    { "day": "Tuesday", "open": "12:00", "close": "22:00" },
+    { "day": "Wednesday", "open": "12:00", "close": "22:00" },
+    { "day": "Thursday", "open": "12:00", "close": "22:00" },
+    { "day": "Friday", "open": "12:00", "close": "23:30" },
+    { "day": "Saturday", "open": "10:00", "close": "23:30" }
+  ],
+  "delivery": { "fee": 3.99, "freeOver": 40, "minutes": "30–45" },
+  "taxRate": 0.08,
+  "promoCodes": { "WELCOME10": 0.1, "EMBER20": 0.2 },
+  "social": { "instagram": "https://instagram.com", "facebook": "https://facebook.com" },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1920&q=80&auto=format&fit=crop",
+    "story": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=1200&q=80&auto=format&fit=crop",
+    "kitchen": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=1200&q=80&auto=format&fit=crop",
+    "interior": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1920&q=80&auto=format&fit=crop",
+    "events": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=80&auto=format&fit=crop",
+    "bar": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1600&q=80&auto=format&fit=crop",
+    "dining": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?w=1600&q=80&auto=format&fit=crop"
+  },
+  "stats": [
+    { "value": 12, "suffix": "", "label": "Years on Harbor St." },
+    { "value": 48, "suffix": "k", "label": "Guests a year" },
+    { "value": 4.9, "suffix": "★", "label": "Average rating" },
+    { "value": 100, "suffix": "%", "label": "Local produce" }
+  ],
+  "services": [
+    { "icon": "Utensils", "title": "Dine in", "text": "Open-kitchen seating, a heated terrace and a cocktail bar." },
+    { "icon": "ShoppingBag", "title": "Pickup", "text": "Order ahead and skip the wait. Ready in about 20 minutes." },
+    { "icon": "Bike", "title": "Delivery", "text": "Hot to your door in 30–45 min. Free on orders over $40." },
+    { "icon": "PartyPopper", "title": "Private events", "text": "Birthdays, team dinners and weddings for 10 to 120 guests." }
+  ],
+  "testimonials": [
+    { "name": "Hannah Reed", "role": "Food blogger", "rating": 5, "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80&auto=format&fit=crop", "text": "The oak-smoked ribs fall off the bone and the staff remember your name. Easily my favourite spot in Brooklyn." },
+    { "name": "Sofia Martinez", "role": "Regular guest", "rating": 5, "photo": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?w=200&q=80&auto=format&fit=crop", "text": "We booked the terrace for my birthday. Booking took a minute online and the team made the night unforgettable." },
+    { "name": "David Chen", "role": "Office manager", "rating": 5, "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80&auto=format&fit=crop", "text": "We order lunch for 30 people every Friday. Always on time, always hot, and ordering online is effortless." }
+  ],
+  "team": [
+    { "name": "Marco Bellini", "role": "Executive Chef", "photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=600&q=80&auto=format&fit=crop" },
+    { "name": "Aisha Rahman", "role": "Head of Pastry", "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&q=80&auto=format&fit=crop" },
+    { "name": "Leo Hart", "role": "Grill Master", "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=600&q=80&auto=format&fit=crop" },
+    { "name": "Emma Brooks", "role": "General Manager", "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&q=80&auto=format&fit=crop" }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1544025162-d76694265947?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=900&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=900&q=80&auto=format&fit=crop"
+  ],
+  "faq": [
+    { "q": "Do you take walk-ins?", "a": "Yes. About a third of our tables are kept for walk-ins, but we recommend booking on Friday and Saturday evenings." },
+    { "q": "Do you cater for allergies and diets?", "a": "Every dish is labelled vegetarian, vegan, gluten-free or spicy. Tell your server about any allergy and the kitchen will adapt." },
+    { "q": "How far do you deliver?", "a": "We deliver within 5 km of the restaurant. Delivery is free on orders over $40." },
+    { "q": "Can I book the whole restaurant?", "a": "Yes. The terrace seats 40 and the full venue 120. Send us a message and our events team replies within 24 hours." },
+    { "q": "Is there parking and step-free access?", "a": "There is a public garage 100 m away on Pier Street, and the restaurant and restrooms are step-free." }
+  ]
+}
